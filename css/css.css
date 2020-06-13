@@ -1,0 +1,28 @@
+.container{
+    width: 1100px;
+    text-align: center;
+    margin: auto;
+    font-size: 53px;
+    font-weight: lighter;
+}
+
+.color1{
+	color: #3174F0
+}
+.color2{
+	color: #e63125
+}
+.color3{
+	color: #249a41
+}
+.color4{
+	color: #f6ad01
+}
+
+img{
+	max-width: 100%;
+	margin-top: 15px;
+	margin-bottom: 15px
+
+}
+
